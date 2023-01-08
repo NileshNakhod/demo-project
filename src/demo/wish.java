@@ -9,5 +9,6 @@ public class wish          //class declaration
 		   //main method body
 		
 		System.out.println("hi");
+		System.out.println("Hello");
 	}
 }
